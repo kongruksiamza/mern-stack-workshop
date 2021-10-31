@@ -1,1 +1,1 @@
-# mern-stack-workshop
+# mern-stack-workshop source code
